@@ -1,4 +1,4 @@
-# Project North Star
+# Project North Star - Jelockro Implementation
 
 The open-source files comprising Leap Motion's Project North Star AR Headset.
 
